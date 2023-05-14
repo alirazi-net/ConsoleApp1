@@ -8,3 +8,10 @@ Console.WriteLine("hi mohandesa");
 // yay
 
 Class1 class1   = new Class1();
+
+
+
+for (int i = 0; i < 10; i++)
+{
+    Console.WriteLine(i);
+}

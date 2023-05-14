@@ -8,6 +8,9 @@ namespace Razi
 {
     internal class Class1
     {
-    // Hello World
+        // Hello World
+
+        public int Id { get; set; }
+        public string Name { get; set; }
     }
 }
