@@ -9,9 +9,11 @@ Console.WriteLine("hi mohandesa");
 
 Class1 class1   = new Class1();
 
-
+// Wow! Not bad :D
 
 for (int i = 0; i < 10; i++)
 {
     Console.WriteLine(i);
 }
+
+// Why loop? do hard codes : *
