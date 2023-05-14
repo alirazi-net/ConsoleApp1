@@ -8,5 +8,6 @@ namespace Razi
 {
     internal class Class1
     {
+    // Hello World
     }
 }
